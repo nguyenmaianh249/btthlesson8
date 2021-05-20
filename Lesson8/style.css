@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#overalWeb {
+    border: 1px solid black;
+    width: 1024px;
+    height: 1500px
+}
+
+#overalWeb div table tr th,
+td {
+    padding-left: 10px;
+}
